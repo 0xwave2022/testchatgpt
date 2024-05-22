@@ -3,5 +3,5 @@
 
 //modify by wave 20230407
 #define CHATGPT_API_VER 1.0
-
+#define TOOLNAME "test_gpt"
 #endif
